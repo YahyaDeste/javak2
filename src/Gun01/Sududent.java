@@ -10,6 +10,8 @@ public class Sududent {
         System.out.println("merhaba 4");
         toplam(4,6);
 
+        System.out.println( "merhaba 5");
+
     }
     public static void toplam(int a,int b){
         System.out.println("toplam " + (a+b));
